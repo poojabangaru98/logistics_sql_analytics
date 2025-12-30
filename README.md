@@ -105,8 +105,8 @@ Logistic_analysis_SQL/
 ### 1. Operations & Efficiency
 Analyzes route-level and facility-level execution performance, including revenue productivity, transit delays, detention contributors, idle time, downtime, and delivery cycle times.
 
-- SQL file: `sql/operations_and_efficiency.sql`  
-- Insights: `insights/operations_efficiency.md`
+- SQL file: [sql/operations_and_efficiency.sql](sql/operations_and_efficiency.sql)
+- Insights: [insights/operations_efficiency.md](insights/operations_efficiency.md)
 
 ---
 
@@ -114,16 +114,16 @@ Analyzes route-level and facility-level execution performance, including revenue
 Evaluates how effectively trucks and trailers are utilized using trip-level time decomposition.  
 The analysis highlights utilization balance, revenue productivity, downtime patterns, and the impact of asset age.
 
-- SQL file: `sql/asset_utilization.sql`  
-- Insights: `insights/asset_utilization.md`
+- SQL file: [sql/asset_utilization.sql](sql/asset_utilization.sql)
+- Insights: [insights/asset_utilization.md](insights/asset_utilization.md)
 
 ---
 
 ### 3. Cost & Profitability
 Examines profitability drivers by linking executed revenue with actual fuel, maintenance, and safety-related costs across loads, routes, customers, and assets.
 
-- SQL file: `sql/cost_and_profitability.sql`  
-- Insights: `insights/cost_profitability.md`
+- SQL file: [sql/cost_and_profitability.sql](sql/cost_and_profitability.sql)
+- Insights: [insights/cost_profitability.md](insights/cost_profitability.md)
 
 ---
 
@@ -153,3 +153,12 @@ Examines profitability drivers by linking executed revenue with actual fuel, mai
 - Window functions for ranking and time-based calculations
 - Views for reusable cost and utilization logic
 - Aggregation and normalization for multi-level analysis
+
+---
+
+## Author
+
+**Pooja Bangaru**  
+Data Analyst / Business Analyst  
+📧 Email: poojabangaru98@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/pooja-bangaru-0983a51a5/
